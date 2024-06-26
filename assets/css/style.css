@@ -91,7 +91,111 @@
     width: 100%;
     left: 0;
 }
+
 /* navbar work completed */
+/* contant-section-1 */
+.pt167 {
+    padding-top: 167px;
+}
+
+.mt-16 {
+    margin-top: 16px;
+}
+
+.pl-38 {
+    padding-left: 14px;
+}
+
+.ml-99 {
+    margin-left: 50px;
+}
+
+.max-width-857 {
+    max-width: 857px;
+}
+
+.gap35 {
+    gap: 35px;
+}
+
+.mt38 {
+    margin-top: 38px;
+}
+
+.svg-boxs p {
+    padding: 0;
+    margin: 0;
+    margin-left: 8px;
+}
+
+.play {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.mt-134 {
+    margin-top: 134px !important;
+}
+
+.light-black {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #666666;
+}
+
+.lh28 {
+    line-height: 28.8px;
+}
+
+.jhone-black {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: left;
+    color: #000000;
+}
+
+.button-1 {
+    width: 254px;
+    height: 46px;
+    border-radius: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+    background: #2C49FE1A;
+    outline: none;
+    border: none;
+}
+
+.ml13 {
+    margin-left: 13px;
+}
+
+.button-2 {
+    width: 233px;
+    height: 46px;
+    border-radius: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+    background: #2C49FE;
+    outline: none;
+    border: none;
+}
+
 @media (max-width:992px) {
 
     /* navbar respossive */
@@ -135,10 +239,37 @@
     }
 
     /* navbar responsive completed */
+    .pl-62 {
+        padding-left: 0;
+    }
+    .mt-134{
+        margin-top: 100px !important;
+    }
 }
 
 @media (max-width:576px) {
     .logo {
         font-size: 25px;
     }
+
+    .button-papa button {
+        margin-left: auto;
+        margin-right: auto;
+       margin-top: 8px;
+    }
+    .lh28{
+        line-height: 24px;
+    }
+    .mt-134{
+        margin-top: 75px !important;}
+    .pt167{
+        padding-top: 100px;
+    }
+}
+
+@media (max-width:1400px) {
+    .ml-99 {
+        margin: 0;
+    }
+
 }
