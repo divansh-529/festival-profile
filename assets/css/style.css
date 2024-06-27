@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family="Poppins", sans-serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 /* navbar work */
 .menubar a {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -48,7 +48,7 @@
     border-radius: 23px;
     border: none;
     transition: all .4s linear;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 600;
     line-height: 24px;
@@ -56,7 +56,7 @@
 }
 
 .logo {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 48.6px;
@@ -141,7 +141,7 @@
 }
 
 .light-black {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -154,7 +154,7 @@
 }
 
 .jhone-black {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 48px;
     font-weight: 600;
     line-height: 72px;
@@ -166,7 +166,7 @@
     width: 254px;
     height: 46px;
     border-radius: 23px;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 600;
     line-height: 24px;
@@ -185,7 +185,7 @@
     width: 233px;
     height: 46px;
     border-radius: 23px;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 600;
     line-height: 24px;
@@ -198,7 +198,7 @@
 
 /* section-2 */
 .galery {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 48px;
     font-weight: 600;
     line-height: 72px;
@@ -262,7 +262,7 @@
 }
 
 .user-name {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -326,7 +326,7 @@
 }
 
 .evenstfree-footer {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 48.6px;
@@ -340,7 +340,7 @@
 
 .lorem-footer {
     max-width: 346px;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -349,7 +349,7 @@
 }
 
 .head-li {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 21px;
@@ -358,7 +358,7 @@
 }
 
 .content-li a {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 12px;
     font-weight: 400;
     line-height: 18px;
@@ -401,7 +401,7 @@
 
 
 .copyright {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -412,7 +412,7 @@
 .show-more-gallery {
 
     max-width: 43px;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 12px;
     font-weight: 700;
     line-height: 18px;
@@ -474,7 +474,7 @@ ul li a {
 
 .remove-text p {
     margin-left: 5px;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -534,7 +534,7 @@ ul li a {
 
 .imput {
     border: none;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
@@ -549,7 +549,7 @@ ul li a {
 }
 
 .post-comm {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     border-radius: 36px;
     width: 208px;
