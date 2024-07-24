@@ -392,25 +392,11 @@
     line-height: 18px;
     text-align: left;
     color: #FFFFFF;
-    position: relative;
+
 }
 
-.content-li a:hover::after {
-    width: 100%;
-    left: 0;
-}
 
-.content-li a::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 0;
-    height: 2px;
-    z-index: 3;
-    transition: all 300ms ease-in-out;
-    background-color: rgb(255, 255, 255);
-}
+
 
 .box-of-gallery-for-show-more {
     width: 100%;
@@ -496,7 +482,9 @@ ul li a {
 .mb-0 {
     margin: 0;
 }
-
+.ml13{
+    margin-left: 13 !important;
+}
 .img6 {
     grid-row: 3/4;
     grid-column: 2/4;
@@ -509,9 +497,7 @@ ul li a {
     height: 100%;
 }
 
-.img:hover {
-    scale: 1.09;
-}
+
 
 .bor-der {
     border: 2px solid #9CA1BE;
