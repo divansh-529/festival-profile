@@ -132,9 +132,10 @@
     padding: 0;
     margin: 0;
     margin-left: 8px;
-   
+
 }
-.pl0{
+
+.pl0 {
     padding-left: 0 !important;
 }
 
@@ -260,6 +261,10 @@
     border-radius: 30px;
 }
 
+.svg {
+    cursor: pointer;
+}
+
 .img5 {
     grid-row: 3/4;
     grid-column: 1/2;
@@ -271,7 +276,7 @@
     background-color: #F1F2F5;
     max-width: 1244px;
     border-radius: 0px 20px 20px 20px;
-    margin-left: 20px;
+
     padding: 14px 20px;
     width: 100%;
 }
@@ -304,6 +309,10 @@
     display: flex;
     align-items: center;
 
+}
+
+.ml-20 {
+    margin-left: 20px;
 }
 
 .mt95 {
@@ -488,7 +497,9 @@ ul li a {
         margin-top: 60px;
     }
 }
-
+.mt-67{
+    margin-top: 67px;
+}
 .remove-text p {
     margin-left: 5px;
     font-family: "Poppins", sans-serif;
@@ -501,6 +512,7 @@ ul li a {
 
 .remove {
     margin-left: 5px;
+    cursor: pointer;
 }
 
 .mb-0 {
