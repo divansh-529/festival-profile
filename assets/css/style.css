@@ -160,6 +160,7 @@
     line-height: 72px;
     text-align: left;
     color: #000000;
+    padding-left: 0;
 }
 
 .button-1 {
@@ -366,10 +367,12 @@
     color: #FFFFFF;
     position: relative;
 }
+
 .content-li a:hover::after {
     width: 100%;
     left: 0;
 }
+
 .content-li a::after {
     content: "";
     position: absolute;
@@ -607,9 +610,7 @@ ul li a {
         margin-bottom: 25px;
     }
 
-    input[type="checkbox"]:checked~.menubar {
-        top: 0%;
-    }
+
 
     /* navbar responsive completed */
     .pl-62 {
