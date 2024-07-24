@@ -319,6 +319,11 @@
     margin-top: 95px;
 }
 
+
+.ml-12 {
+    margin-left: 12px;
+}
+
 .ml-15 {
     margin-left: 15px;
 }
@@ -497,9 +502,11 @@ ul li a {
         margin-top: 60px;
     }
 }
-.mt-67{
+
+.mt-67 {
     margin-top: 67px;
 }
+
 .remove-text p {
     margin-left: 5px;
     font-family: "Poppins", sans-serif;
