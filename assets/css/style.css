@@ -148,7 +148,9 @@
     text-align: left;
     color: #666666;
 }
-
+.pt55{
+    padding-top: 55px;
+}
 .lh28 {
     line-height: 28.8px;
 }
@@ -522,7 +524,7 @@ ul li a {
 }
 
 .mt-70 {
-    margin-top: 70px;
+    margin-top: 77px;
 }
 
 /* .section-3 */
