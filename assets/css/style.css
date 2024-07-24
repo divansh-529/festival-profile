@@ -20,12 +20,18 @@
     display: none;
 }
 
+.cursor-pointer {
+    cursor: pointer;
+}
+
 .line {
     margin-bottom: 3px;
     width: 30px;
     height: 4px;
     background: black;
     z-index: 3;
+    margin-right: 12px;
+
 }
 
 .mr-61 {
@@ -126,6 +132,10 @@
     padding: 0;
     margin: 0;
     margin-left: 8px;
+   
+}
+.pl0{
+    padding-left: 0 !important;
 }
 
 .play {
@@ -148,9 +158,11 @@
     text-align: left;
     color: #666666;
 }
-.pt55{
+
+.pt55 {
     padding-top: 55px;
 }
+
 .lh28 {
     line-height: 28.8px;
 }
